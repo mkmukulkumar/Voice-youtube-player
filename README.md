@@ -6,5 +6,6 @@ It will plays the Video on Youtube by using voice command.
 - Webchrome driver install
 - time install
 ### Run
-Run with Python IDLE or To Run on Command prompt use py -i Insta Connection finer.py (iterative method) on folder's directory
+Run with Python IDLE or
+To Run on Command prompt use py -i Voice youtube player.py (iterative method) on folder's directory
 
