@@ -7,5 +7,5 @@ It will plays the Video on Youtube by using voice command.
 - time install
 ### Run
 Run with Python IDLE or
-To Run on Command prompt use py -i Voice youtube player.py (iterative method) on folder's directory
+To Run on Command prompt use Voice youtube player.py on folder's directory
 
